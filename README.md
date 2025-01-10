@@ -105,9 +105,3 @@
 <img src="https://raw.githubusercontent.com/Nitish7382/Nitish7382/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Nitish7382/count.svg?"  />
-</div>
-
-###
